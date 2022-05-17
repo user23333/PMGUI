@@ -14,3 +14,7 @@
 
 - demo: PMGUI演示Demo , 使用项目配置的Release X64方案编译
 - GlyphFactor: PMGUI所需字体文件的生成器 , 使用项目配置的Release X32方案编译 
+
+## 效果
+
+![shot](./shot.png)
