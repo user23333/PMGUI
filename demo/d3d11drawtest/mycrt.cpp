@@ -1,6 +1,7 @@
 /*
 Author: CSlime
 Github: https://github.com/cs1ime
+Reference project https://github.com/nothings/stb
 */
 #include "mycrt.h"
 
