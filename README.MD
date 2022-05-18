@@ -4,7 +4,7 @@
 
 ​	自己手动从D3D11底层开始写的一个GUI,只需要提供获取鼠标坐标函数(GetCursorPos)和获取鼠标按键状态函数(GetAsyncKeyState)即可使用,支持双进程异步绘制(AsyncRenderTask)
 
-​	几乎把我用到的所有R3的技术都放上去了,整个GUI Runtime期间全程使用syscall调用系统API,兼容性极好
+​	几乎把我用到的所有R3的技术都放上去了,整个GUI Runtime期间无堆内存申请,并且全程使用syscall调用系统API,兼容性极好
 
 ## 使用方法
 
